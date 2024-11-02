@@ -1,0 +1,13 @@
+name = "Candle"
+uuid = "107e4d31-f137-4642-b713-9f452e351970"
+authors = ["none"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.11"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
